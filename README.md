@@ -20,3 +20,23 @@ The idea behind the project is simple: scan a shopping receipt, recognize produc
 FişCep is a personal development project where I worked on mobile app development, database integration, and OCR-based text recognition.
 
 **Status:** Developed as a personal project.  
+
+---
+
+### Screenshots
+
+| Home Screen | Before Scanning |
+|:---:|:---:|
+| ![Home](image/Home.jpeg) | ![Before Scan](image/before_scan.jpeg) |
+
+| Receipt Photo | OCR Result 1 |
+|:---:|:---:|
+| ![Receipt](image/receipt_photo.jpeg) | ![OCR Result 1](image/ocr_result%201%20.jpeg) |
+
+| OCR Result 2 | Product List |
+|:---:|:---:|
+| ![OCR Result 2](image/ocr_result%202%20.jpeg) | ![Products](image/product_list.jpeg) |
+
+### Expense Statistics
+
+![Statistics](image/statistics.jpeg)
