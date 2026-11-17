@@ -4,7 +4,7 @@ FişCep is a mobile app I developed to make tracking shopping expenses easier.
 
 The idea behind the project is simple: scan a shopping receipt, recognize product prices using OCR, and keep track of expenses in one place.
 
-### What can it do?
+### Features
 - Scan shopping receipts and extract price information.
 - Recognize text using Google ML Kit.
 - Add or edit product prices manually.
